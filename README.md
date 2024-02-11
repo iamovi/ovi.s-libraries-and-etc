@@ -9,7 +9,7 @@ Btw you can also discover everything by walking through my github profile and re
 
 ## Table of Contents
 
-- notAcursor:[#1](#1)
+- notAcursor:[##1](##1)
 - [Project 2](#project-2)
 - [Project 3](#project-3)
 - [Project 4](#project-4)
