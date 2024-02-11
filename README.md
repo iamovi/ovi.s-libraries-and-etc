@@ -12,11 +12,11 @@ Btw you can also discover everything by walking through my github profile and re
 
 # Table of Contents
 
-1. [My first title](#1/-notAcursor)
+1. [My first title](#notAcursor)
 
 ---
 
-## 1/ notAcursor
+## notAcursor
 
 notAcuraor - A library to give your cursor cool looks in web pages.
 
