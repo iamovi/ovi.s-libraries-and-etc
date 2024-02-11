@@ -12,7 +12,8 @@ Btw you can also discover everything by walking through my github profile and re
 
 # Table of Contents
 
-1. [My first title](#notAcursor)
+1. [notAcursor](#notAcursor)
+2. [ani.css](#ani.css)
 
 
 ## notAcursor
@@ -24,4 +25,4 @@ notAcuraor - A library to give your cursor cool looks in web pages.
 Repo Link: [https://github.com/iamovi/notAcursor](https://github.com/iamovi/notAcursor)
 Website Link: [https://iamovi.github.io/notAcursor](https://iamovi.github.io/notAcursor)
 
-## 2/ ani.css
+## ani.css
