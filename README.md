@@ -13,8 +13,9 @@ Btw you can also discover everything by walking through my github profile and re
 # Table of Contents
 
 1. [notAcursor](#notAcursor)
-2. [ani.css](#ani-css)
+2. [ani.css](#ani.css)
 
+---
 
 ## notAcursor
 
