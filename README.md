@@ -27,3 +27,5 @@ Repo Link: [https://github.com/iamovi/notAcursor](https://github.com/iamovi/notA
 Website Link: [https://iamovi.github.io/notAcursor](https://iamovi.github.io/notAcursor)
 
 ## ani.css
+
+ani.csa - text and button animations and effetcs.
