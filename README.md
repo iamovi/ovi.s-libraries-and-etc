@@ -14,7 +14,6 @@ Btw you can also discover everything by walking through my github profile and re
 
 1. [My first title](#notAcursor)
 
----
 
 ## notAcursor
 
