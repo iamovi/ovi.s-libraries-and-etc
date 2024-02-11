@@ -16,6 +16,7 @@ don't wanna read below? then directly go to repository from here-
 
 ### 1/ [notAcursor](https://github.com/iamovi/notAcursor)
 
+- but i suggest you to read below for complete details, website link and etc!
 ---
 
 ## notAcursor
