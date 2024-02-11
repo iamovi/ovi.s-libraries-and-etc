@@ -1,1 +1,1 @@
-![banner.gif](./.github/banner.gif)
+<img src="./.github/banner.gif" alt="banner" style="width: 100%;">
