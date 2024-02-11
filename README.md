@@ -10,10 +10,11 @@ Btw you can also discover everything by walking through my github profile and re
 
 ---
 
-# Table of Contents
+# Quick Go
 
-1. [notAcursor](#notAcursor)
-2. [ani.css](#ani.css)
+don't wanna read below? then directly go to repository from here-
+
+### 1/ [notAcursor](https://github.com/iamovi/notAcursor)
 
 ---
 
